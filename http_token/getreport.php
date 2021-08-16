@@ -1,10 +1,10 @@
 <?php
     /*
-     @author SMS CLUB 
-     @url www.smsclub.mobi
-     @copyright 2017
+     @author dreamstore7km 
+     @url dreamstore-7km.prom.ua
+     @copyright 2021
     */
-    $url = 'https://gate.smsclub.mobi/token/state.php?';
+    $url = 'https://gate.dreamstore7km.mobi/token/state.php?';
     $username = 'user';    // string User ID (phone number)
     $token = 'token';        // string token
     $smscid = '0001'; 
